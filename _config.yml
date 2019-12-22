@@ -16,9 +16,9 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: geraldsong/geraldsong.github.io
-github_url: https://github.com/geraldsong
-url: http://www.songhaojie.com
-enforce_ssl: songhaojie.com
+#github_url: https://github.com/geraldsong
+#url: http://www.songhaojie.com
+#enforce_ssl: songhaojie.com
 
 ## Gem
 plugins:
