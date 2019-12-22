@@ -15,8 +15,6 @@ keywords: Gerald
 encoding: "utf-8"
 favicon: favicon.ico 
 
-baseurl=""
-
 repository: geraldsong/geraldsong.github.io
 github_url: https://github.com/geraldsong
 url: https://geraldsong.github.io
