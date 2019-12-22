@@ -16,6 +16,7 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 baseurl=""
+url=""
 repository: geraldsong/geraldsong.github.io
 #github_url: https://github.com/geraldsong
 #url: http://www.songhaojie.com
