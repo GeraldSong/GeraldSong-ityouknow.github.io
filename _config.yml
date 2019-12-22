@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: geraldsong/geraldsong.github.io
 github_url: https://github.com/geraldsong
-url: http://geraldsong.github.io
+url: https://songhaojie.com
 #enforce_ssl: songhaojie.com
 
 ## Gem
@@ -255,5 +255,3 @@ skill_mobile_app_keywords: [vuejs, hyhird app]
 #    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # 在使用其它评论组件时可点击显示 Disqus
 #lazy_load_disqus : true
-
-theme: jekyll-theme-cayman
